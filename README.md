@@ -25,3 +25,4 @@ The dashboard provides insights into sales performance across different regions,
 - consumer segment has the more sales.
 
 ## Dashboard preview
+- Dashboard.png 
